@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CareerTweakrz<br>👯 I’m looking to collaborate on Gen-AI based SaaS applications<br>🌱 I’m currently learning LLM and its potential use cases<br>💬 Ask me about DevOps, System Design and clean code
+🔭 I’m currently working as a Backend Engineer<br>👯 I’m looking to collaborate on Gen-AI based SaaS applications<br>🌱 I’m currently learning MLOps and its potential use cases<br>💬 Ask me about DevOps, System Design and clean code
 
 
 ## 🌐 Socials:
